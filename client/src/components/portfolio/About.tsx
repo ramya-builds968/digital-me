@@ -1,5 +1,5 @@
 import { portfolio } from "@/data/portfolio";
-
+                                                          //skills section
 export function About() {
   return (
     <section id="about" className="section">

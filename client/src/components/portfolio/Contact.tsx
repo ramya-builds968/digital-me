@@ -1,6 +1,6 @@
 import { useState, type FormEvent } from "react";
 import { Github, Linkedin, Mail } from "lucide-react";
-import { z } from "zod";
+import { z } from "zod";                                               //skills section
 import { portfolio } from "@/data/portfolio";
 
 const schema = z.object({

@@ -1,6 +1,6 @@
 import { portfolio } from "@/data/portfolio";
 
-export function Hero() {
+export function Hero() {                                       //skills section
   return (
     <section id="home" className="section flex min-h-screen items-center pt-24">
       <div className="animate-in fade-in slide-in-from-bottom-4 duration-700">

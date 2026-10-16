@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Menu, Moon, Sun, X } from "lucide-react";
-import { navLinks, portfolio } from "@/data/portfolio";
+import { navLinks, portfolio } from "@/data/portfolio";                 //skills section
 
 export function Navbar() {
   const [dark, setDark] = useState(false);
