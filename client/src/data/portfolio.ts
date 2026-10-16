@@ -2,7 +2,7 @@
 export const portfolio = {
   name: "Ramya",
   title: "Full Stack Developer (MERN)",
-  tagline: "I turn ideas into clean, working web products.",
+  tagline: "Learning to build and deploy full stack app",
   // Put your photo in /public (e.g. /public/profile.jpg) and set the path here.
   photo: "",
   bio: "Hi, I'm Ramya, an aspiring full stack developer who builds web apps with React, Node.js, and MongoDB. I'm currently learning AWS to deploy and scale my projects. I enjoy turning ideas into working products and learning something new with every project I build. This portfolio is one of them: it includes an AI chatbot that answers questions about me. I'm looking for an opportunity to grow as a developer and contribute to a real team.",
